@@ -1,0 +1,15 @@
+.main_container {
+  margin: 20px;
+}
+
+.leftCard {
+  width: 250px;
+  margin: 5px;
+  border: 2px solid black;
+}
+
+.selectedCard {
+  float: left;
+  border: 2px solid black;
+  vertical-align: top;
+}
